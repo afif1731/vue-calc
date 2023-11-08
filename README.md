@@ -1,5 +1,7 @@
 # Vue-calc
-for Web Based Programming Lecture about web hosting
+for Web Based Programming Lecture about web hosting. By:
++ Muhammad Afif
++ 5027221032
 
 ### Vercel link
 tbd
