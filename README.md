@@ -6,4 +6,4 @@ for Web Based Programming Lecture about web hosting. By:
 ### Vercel link
 [click here](https://vue-calc-steel.vercel.app/)
 ### Github.io link
-tbd
+[click here](https://afif1731.github.io/vue-calc/)
